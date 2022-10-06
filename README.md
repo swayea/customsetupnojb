@@ -36,3 +36,5 @@ Tested on Red Dot app, iPhone 6S iOS 15.4.1
 8. Go back, And tap CFBundleIconName now
 9. Change the value to AppIcon
 10. Rebuild Icon Cache and Respring from Trollstore
+
+Extra: If you want change your app name just change CFBundleDisplayName or CFBundleName (crashes on some apps, make backup)
