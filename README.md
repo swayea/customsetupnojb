@@ -1,4 +1,4 @@
-# customsetupnojb
+# customsetupnojb - Manual method
 
 Tested on iPhone 6S iOS 15.4.1. 
 
@@ -38,3 +38,5 @@ Tested on Red Dot app, iPhone 6S iOS 15.4.1
 10. Rebuild Icon Cache and Respring from Trollstore
 
 Extra: If you want change your app name just change CFBundleDisplayName or CFBundleName (crashes on some apps, make backup)
+
+** GUI app is work in progress**
