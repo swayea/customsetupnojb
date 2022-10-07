@@ -19,7 +19,7 @@ Tested on iPhone 6S iOS 15.4.1.
 
 ## NO SHORTCUTS METHOD
 
-WARNING!: Not works on some apps, your data may be avoid, make sure have a backup. I am not responsible on any data loss.
+WARNING!: Does not work on some apps, your data may be lost, make sure to have a backup. I am not responsible on any data loss.
 
 
 
