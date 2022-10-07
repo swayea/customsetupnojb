@@ -31,7 +31,7 @@ Tested on Red Dot app, iPhone 6S iOS 15.4.1
 3. Delete the AppIcon60x60@2x.png (Make backup!)
 4. Place your icon here
 5. Rename your icon to AppIcon60x60@2x.png
-6. Open info.plist, tap CFBundleIcons, tap CFBundlePrimaryIcon, tap CFBundleIconFiles
+6. Open info.plist, tap CFBundleIcons, tap CFBundlePrimaryIcon, tap CFBundleIconFiles (If there is none of these files, create them)
 7. Change the value to '' AppIcon60x60 ''
 8. Go back, And tap CFBundleIconName now
 9. Change the value to AppIcon
