@@ -2,7 +2,7 @@
 
 Tested on iPhone 6S iOS 15.4.1. 
 
-SHORTCUTS METHOD [more peacefully and more stable for daily usage in my opinion]
+## SHORTCUTS METHOD [more peacefully and more stable for daily usage in my opinion]
 
 
 1. Install the updated Filza for Trollstore
@@ -17,7 +17,8 @@ SHORTCUTS METHOD [more peacefully and more stable for daily usage in my opinion]
 
 
 
-NO SHORTCUTS METHOD [not working on some apps, prob binaeries are working different and idk how to fix]
+## NO SHORTCUTS METHOD
+
 WARNING!: Not works on some apps, your data may be avoid, make sure have a backup. I am not responsible on any data loss.
 
 
@@ -37,6 +38,12 @@ Tested on Red Dot app, iPhone 6S iOS 15.4.1
 9. Change the value to AppIcon
 10. Rebuild Icon Cache and Respring from Trollstore
 
-Extra: If you want change your app name just change CFBundleDisplayName or CFBundleName (crashes on some apps, make backup)
+Extra: If you want change your app name just change CFBundleDisplayName or CFBundleName
+
+## Known issues ##
+
+- Changing CFBundleDisplayName gets applied hours after hours: I see this issue at Whatsapp, in the first time it not changes but after hours pass it gets changed automaticly with no problem.
+
+- Changing CFBundleName makes app not open on Home Screen: Here, the app name succesfully gets changed. But you can't launch app on Home Screen, but you can launch the app from app switcher or writing '' whatsapp:// '' to Safari. Also it getting fixed too automaticly after waiting some hours.
 
 **GUI app is work in progress**
