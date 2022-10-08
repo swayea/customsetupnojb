@@ -1,5 +1,7 @@
 # customsetupnojb - Manual method
 
+- [Video guide](https://youtu.be/9ZZD_70wCiM)
+
 Tested on iPhone 6S iOS 15.4.1. 
 
 ## SHORTCUTS METHOD [more peacefully and more stable for daily usage in my opinion]
