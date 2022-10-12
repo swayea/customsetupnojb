@@ -49,5 +49,3 @@ Tested on Red Dot app, iPhone 6S iOS 15.4.1
 - Changing CFBundleDisplayName gets applied hours after hours: I see this issue at Whatsapp, in the first time it not changes but after hours pass it gets changed automaticly with no problem.
 
 - Changing CFBundleName makes app not open on Home Screen: Here, the app name succesfully gets changed. But you can't launch app on Home Screen, but you can launch the app from app switcher or writing '' whatsapp:// '' to Safari. Also it getting fixed too automaticly after waiting some hours.
-
-**GUI app is work in progress**
